@@ -1,0 +1,218 @@
+it_IT:
+  code: ita
+  name: italiano
+  base_url: ""
+  t:
+    lang: it
+    lang_code: it_IT
+    site_title: Task force IA
+    site_subtitle: L’Intelligenza Artificiale al servizio del cittadino
+
+    active_lang: lingua attiva
+    cookiebar_accept: Accetto
+    cookiebar_msg: Questo sito utilizza cookie tecnici, analytics e di terze parti. Proseguendo nella navigazione accetti l’utilizzo dei cookie.
+    cookiebar_privacy_policy: Privacy policy
+    scrolltop_label: torna all'inizio dei contenuti
+    skiplink_goto_content: vai ai contenuti
+    skiplink_goto_navigation: vai alla navigazione del sito
+    toggle_menu_label: accedi al menu
+
+    follow_us: seguici su
+    share_msg: condividi
+
+    header_link_task-force: Web
+    header_link_community: Community
+    header_link_whitepaper: Libro bianco
+    go_to_the_whitepaper: Vai al libro bianco
+
+    footer_link_privacy_policy: privacy policy
+    footer_link_legal_notes: note legali
+    footer_public_domain: Donazione al Pubblico Dominio
+
+    navigation_menu_label: Menu di navigazione
+    navigation_menu_esc: esci dalla navigazione
+
+    home_claim: |
+      La task force studia le opportunità offerte
+      dall’<strong>Intelligenza Artificiale</strong> per migliorare
+      i servizi pubblici e semplificare la vita dei cittadini
+    home_header_button: Partecipa
+    home_goals_title: Obiettivi della task force IA
+    home_goals:
+      - analizzare le potenziali applicazioni dell’IA nei servizi pubblici
+      - studiare le implicazioni economiche, sociali e culturali sull’introduzione dell’IA nei servizi pubblici
+      - definire rischi e opportunità strategiche per le amministrazioni italiane
+      - mappare il lavoro avviato dalle pubbliche amministrazioni e dai principali centri di ricerca italiani e internazionali
+      - realizzare delle raccomandazioni sull'IA al servizio del cittadino destinate alle pubbliche amministrazioni
+
+    documents: |
+      Documenti prodotti
+      dalla task force
+    documents_coming_soon: I documenti e gli approfondimenti prodotti dalla task force (in aggiornamento).
+    insights: Approfondimenti
+    case_studies: Casi di studio
+    case_studies_coming_soon: I casi di studio di interesse nazionale e internazionale (in aggiornamento).
+
+    case_studies_goto: per saperne di più
+
+    agid: |
+      Agenzia per
+      l'Italia Digitale
+    agid_e_fp: Agenzia per l'Italia Digitale e Dipartimento della funzione pubblica
+    task_force_members: Gruppo di coordinamento
+    coordinamento: coordinamento
+
+    vuoi_contribuire: Vuoi contribuire ai lavori della task force IA?
+    vuoi_saperne: Vuoi saperne di più?
+    vuoi_contattare: Vuoi contattare la task force?
+    cta_partecipa: Partecipa
+    cta_vai_materiali: Vai ai materiali
+    cta_approfondisci: Approfondisci
+    cta_scopri_tf: Scopri la task force
+    cta_scopri: Scopri di più
+    cta_compila: Aiutaci a mappare l'ecosistema IA
+    cta_libro_bianco: Partecipa alla consultazione sul libro bianco IA
+    scrivi_a: Scrivi a
+    per_i_media: Per i media
+
+    newsletter_signup: Iscriviti alla newsletter
+    newsletter_subscribe: Iscriviti
+    newsletter_placeholder: indirizzo email
+    newsletter_thanks: Grazie
+    newsletter_subscribed: Adesso sei iscritto alla newsletter!
+    newsletter_tagline: |
+      Rimani in contatto per essere informato sui lavori della task force IA.
+      Non ti assilleremo con troppe email, parola di bot.
+
+    agid_desc: |
+      L’Agenzia per l’Italia Digitale (AgID) è l’agenzia di governo che coordina l’attuazione dell’Agenda Digitale Italiana e
+      promuove la diffusione dell'utilizzo delle tecnologie ICT, favorendo l'innovazione e la crescita economica, sociale e culturale del Paese.
+
+    error: errore
+    iframe_not_supported: Il tuo browser non supporta gli iframe. Ti consigliamo di usarne uno più recente.
+    
+    observatory_sentiment: |
+      **Sentiment**: Scopri quali emozioni suscitano le discussioni sull’IA in Italia,
+      in che percentuali e secondo quali valori assoluti per giornata.
+    observatory_themes: |
+      **Temi**: Scopri quali sono i temi di cui si è più discusso negli ultimi 30
+      giorni. La dimensione dei cerchi è proporzionale alla frequenza di discussione
+      del tema.
+    observatory_themes_relations: |
+      **Relazione tra i temi**: Zoomando sulle linee del grafo scopri se negli
+      ultimi 30 giorni è stata stabilita una correlazione tra due temi.
+    observatory_credits: |
+      ## Note e credits
+      
+      I dati raccolti sono trattati secondo metodologie e tecnologie descritte nel documento “[​OIA - Methodological, technological and ethical approach to social networks analysis, data extraction and visualizations​](https://docs.google.com/document/d/1j93y2udBlZR-qOpLsRwfd5CQC9wwPEkGhsI2SP8646s/edit)”.
+      
+      **Inizio dell’ascolto: 24 settembre 2017**
+      L’Osservatorio è una iniziativa promossa dalla Task force IA in collaborazione con l'istituto di ricerca [HER - Human Ecosystems Relazioni](https://www.he-r.it/).
+
+en_US:
+  code: eng
+  name: english
+  base_url: "en/"
+  t:
+    lang: en
+    lang_code: en_US
+    site_title: AI task force
+    site_subtitle: Artificial Intelligence at the service of the citizen
+
+    active_lang: current language
+    cookiebar_accept: Accept
+    cookiebar_msg: We are using cookies to provide statistics that help us give you the best experience of our site. By continuing to use the site you are agreeing to our use of cookies.
+    cookiebar_privacy_policy: Privacy policy
+    scrolltop_label: back to contents
+    skiplinks_goto_content: go to content
+    skiplinks_goto_navigation: go to site navigation
+    oggle_menu_label: go to navigation
+
+    follow_us: follow us
+    share_msg: share
+
+    header_link_community: Community
+    header_link_task-force: Web
+    header_link_whitepaper: White paper
+    go_to_the_whitepaper: Go to white paper
+
+    footer_link_privacy_policy: privacy policy
+    footer_link_legal_notes: legal notes
+    footer_public_domain: Contribution to Public Domain
+
+    navigation_menu_label: Navigation menu
+    navigation_menu_esc: Disconnect
+
+    home_claim: |
+      The task force identifies the opportunities offered
+      by <strong>Artificial Intelligence</strong> to enhance the quality of
+      the services offered to citizens and therefore to simplify their lives
+
+    home_header_button: JOIN
+    home_goals_title: The mission of the AI task force
+    home_goals:
+      - analyze how AI can be applied to public services
+      - define the economic, social and cultural implications deriving from the use of AI in public services
+      - define the related risks and strategic opportunities for Italian administration
+      - map the work carried out by public administrations and leading Italian and international research centers on AI
+      - draft a set of recommendations for public administrations on the use of Artificial Intelligence in the creation of services for the citizen
+
+    documents: |
+      Documents produced
+      by the task force
+    documents_coming_soon: Documents and insights produced by the task force (updating).
+    insights: Insights
+    case_studies: Case Studies
+    case_studies_coming_soon: National and international case studies (updating).
+
+    case_studies_goto: Know more
+
+    agid: |
+      The Agency for
+      Digital Italy
+    agid_e_fp: The Agency for Digital Italy and the Department for Public Administration
+    task_force_members: Coordination board
+    coordinamento: coordination-board
+
+    vuoi_contribuire: Do you want to contribute to the work of the AI task force?
+    vuoi_saperne: Learn more
+    vuoi_contattare: Do you want to contact the task force?
+    cta_partecipa: Join
+    cta_vai_materiali: Go to Materials
+    cta_scopri: Learn more
+    cta_scopri_tf: About us
+    cta_approfondisci: Read more
+    cta_compila: Help us map the AI ecosystem in Italy
+    cta_libro_bianco: Partecipa alla consultazione sul libro bianco IA
+    scrivi_a: Write to
+    per_i_media: For the media
+
+    newsletter_signup: Sign up to our newsletter
+    newsletter_subscribe: Subscribe
+    newsletter_placeholder: email address
+    newsletter_thanks: Thanks
+    newsletter_subscribed: Your subscription has been successful!
+    newsletter_tagline: |
+      Stay in touch and keep yourself up-to-date on the AI task force activities.
+      We won't bother you with too many messages, trust the Bot!
+
+    agid_desc: |
+      The Agency for Digital Italy (AgID) is the governmental agency coordinating the implementation of the Italian Digital Agenda and
+      it encourages the diffusion and the use of ICT technologies, fostering innovation, socio-economic growth and digital culture.
+
+    error: error
+    iframe_not_supported: You probabily have an older browser which does not support iframes. Please consider using a more recent one.
+    
+    observatory_sentiment: |
+      **Sentiment**: Find out what are the emotions that AI produces in Italy, what is the percentage and the absolute values of sentiments each day.
+    observatory_themes: |
+      **Topics**: Find out the topics of the last 30 days. Circles dimension is proportional to the frequency of a topic.
+    observatory_themes_relations: |
+      **Connections between topics**: By mousing over the lines you can check whether there is connection between topics.
+    observatory_credits: |
+      ## Credits and Notes
+      
+      Collected data are processed according to methods and technologies described in the document “[​OIA - Methodological, technological and ethical approach to social networks analysis, data extraction and visualizations​](https://docs.google.com/document/d/1j93y2udBlZR-qOpLsRwfd5CQC9wwPEkGhsI2SP8646s/edit)”.
+      
+      **Starting date: September 24, 2017**
+      The Observatory is an initiative of the AI Task Force in cooperation with the research institute [HER - Human Ecosystem Relations](https://www.he-r.it/).

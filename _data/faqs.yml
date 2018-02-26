@@ -1,0 +1,59 @@
+it_IT:
+  - title: Cos’è la task force IA?
+    text: |
+      La task force sull’Intelligenza Artificiale (IA) è un’iniziativa dell’Agenzia per l’Italia Digitale che ha l’obiettivo di studiare le possibilità offerte dall’IA per migliorare i servizi pubblici e semplificare la vita dei cittadini.
+  - title: Come è composta la task force?
+    text: |
+      È composta da un coordinamento di [trenta profili](../task-force/#coordinamento) selezionati attraverso la [call](http://www.agid.gov.it/notizie/2017/04/06/lintelligenza-artificiale-servizio-del-cittadino-partecipa-task-force) promossa da AgID ad Aprile 2017 e da una [community](https://ia.italia.it/community) a supporto.
+  - title: Quali sono gli obiettivi?
+    text: |
+      La task force ha il compito di definire, all’interno di un primo rapporto sintetico, policy e opportunità strategiche per le amministrazioni italiane, derivanti dall’utilizzo dell’IA nello sviluppo di servizi pubblici.
+  - title: Come sono organizzati i lavori?
+    text: |
+      Il coordinamento si riunisce periodicamente, con cadenza almeno mensile, di persona o in remoto. I lavori del coordinamento sono supportati dai contributi della [community](https://ia.italia.it/community).
+      La task force si occupa di produrre la bozza delle raccomandazioni e seleziona i [materiali](https://ia.italia.it/materiali/) di approfondimento che condivide con la community attraverso [ReadTheDocs](https://libro-bianco-ia.readthedocs.io/it/latest/) per raccogliere feedback e suggerimenti.
+  - title: Chi può partecipare alla task force?
+    text: |
+      Tutte le persone interessate possono contribuire ai lavori della task force. Partecipando alla [community](https://ia.italia.it/community) è possibile fornire feedback, suggerimenti, idee e segnalare casi di studio.
+  - title: Dove si trovano gli avanzamenti del libro bianco?
+    text: |
+      Nella sezione dedicata [“Libro bianco”](https://libro-bianco-ia.readthedocs.io/it/latest/) sono pubblicati gli avanzamenti, condivisi con il Coordinamento, di stesura del libro bianco, per i suggerimenti e le integrazioni che la community potrà proporre.
+  - title: Cos’è l’Osservatorio Italiano sull’Intelligenza Artificiale?
+    text: |
+      È un’iniziativa sperimentale promossa dalla Task Force IA in collaborazione con l’istituto di ricerca HER - Human Ecosystems Relazioni. L’obiettivo è quello di analizzare le conversazioni sull’Intelligenza Artificiale nei principali social network, attraverso diversi strumenti tra cui la sentiment analysis.
+  - title: È possibile contribuire alla stesura del libro bianco?
+    text: |
+      Il libro bianco è in consultazione fino all’11 marzo 2018. È possibile inviare integrazioni e commenti ai capitoli e alle sfide (link readthedocs), oppure proposte per le Raccomandazioni sull’IA, compilando il form “Raccomandazioni IA”(link form).
+  - title: Cos’è l’Ecosistema Intelligenza Artificiale?
+    text: |
+      È la mappatura dinamica dei soggetti pubblici e privati che studiano o lavorano con l’intelligenza artificiale in Italia. L’ecosistema (link alla pagina) viene costantemente aggiornato con le realtà che partecipano all’indagine promossa dalla Task Force IA.
+
+en_US:
+  - title: What is the AI task force?
+    text: |
+     The Artificial Intelligence (AI) task force is an initiative of the Agency for Digital Italy, which aims at studying the opportunities offered by AI to improve public services and to simplify the lives of citizens.
+  - title: How is the task force composed?
+    text: |
+      The task force is composed of a thirty-member [coordination board](../task-force/#coordination-board), selected after a call launched by AgID in April 2017, and of an open [community](https://ia.italia.it/community) that provides support and feedback to the work of the coordination board.
+  - title: What are its objectives?
+    text: |
+      The task force aims at defining, within a first synthetic report, policy and strategic opportunities for Italian administrations on the use of AI in the development of public services.
+  - title: What is the task force doing to fulfill its mandate?
+    text: |
+      The Coordination board meets periodically, at least monthly, personally or remotely. The Coordination board work is supported by [community](https://ia.italia.it/community) contributions.
+      The task force is working on producing the draft of the recommendations and selecting the [materials](https://ia.italia.it/en/documents/) shared with the community through [ReadTheDocs](https://libro-bianco-ia.readthedocs.io/it/latest/) to collect feedback and suggestions.
+  - title: How can someone get involved in the work of the task force?
+    text: |
+      All interested people can contribute to the work of the task force. By participating as part of the [community](https://ia.italia.it/community), everyone can provide feedback, suggestions, ideas and report relevant case studies.
+  - title: Where can I find the advancements of the white paper?
+    text: |
+      In the [“White paper”](https://libro-bianco-ia.readthedocs.io/it/latest/) section, we publish the advancements of the White Paper, shared by the Coordination board and open to the suggestions and integrations that the community may propose.
+  - title: Cos’è l’Osservatorio Italiano sull’Intelligenza Artificiale?
+    text: |
+      È un’iniziativa sperimentale promossa dalla Task Force IA in collaborazione con l’istituto di ricerca HER - Human Ecosystems Relazioni. L’obiettivo è quello di analizzare le conversazioni sull’Intelligenza Artificiale nei principali social network, attraverso diversi strumenti tra cui la sentiment analysis.
+  - title: È possibile contribuire alla stesura del libro bianco?
+    text: |
+      Il libro bianco è in consultazione fino all’11 marzo 2018. È possibile inviare integrazioni e commenti ai capitoli e alle sfide (link readthedocs), oppure proposte per le Raccomandazioni sull’IA, compilando il form “Raccomandazioni IA”(link form).
+  - title: Cos’è l’Ecosistema Intelligenza Artificiale?
+    text: |
+      È la mappatura dinamica dei soggetti pubblici e privati che studiano o lavorano con l’intelligenza artificiale in Italia. L’ecosistema (link alla pagina) viene costantemente aggiornato con le realtà che partecipano all’indagine promossa dalla Task Force IA.
